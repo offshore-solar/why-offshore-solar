@@ -10,4 +10,4 @@ which is 1461 [GWh/km^2] * 0.1 * 510,100,000 [km^2] * 0.01 = **745[PWh]** (PWh: 
 
 For comparison, total worldwide electricity generation in 2019 was 27[PWh]. Total worldwide energy generation in 2019 was 167[PWh].
 
-Ref. https://www.iea.org/reports/global-energy-review-2019
+Ref. https://www.iea.org/reports/global-energy-review-2019 https://en.wikipedia.org/wiki/Solar_irradiance#/media/File:World_DNI_Solar-resource-map_GlobalSolarAtlas_World-Bank-Esmap-Solargis.png
